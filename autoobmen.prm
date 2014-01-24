@@ -1,0 +1,6 @@
+[General]
+AutoExchange=Y
+[AutoExchange]
+SharedMode=Y
+ReadFrom=*
+WriteTo=*
